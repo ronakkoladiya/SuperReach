@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4269e27e-7f23-483b-9ef6-73bb1a9874e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/LandingPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Section1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Section2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Section3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Section4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Section5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Acquired.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Ai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ArrowDown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Chapman Black 2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Elliott.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Ignitesap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Linkdin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/RED_Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/aero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bigfour.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/hero.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/men img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/third republic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/thirdrepublicblack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/women.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2WFkDeD6T1MOAeYY2sbUTnCvWNf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/Ridham/React/demo2" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4269e27e-7f23-483b-9ef6-73bb1a9874e5" name="Default Changelist" comment="" />
+      <created>1696335596592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696335596592</updated>
+      <workItem from="1696335597737" duration="30905000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
